@@ -1,0 +1,1 @@
+cmd_/media/common/psmouse-debian8/synaptics_i2c.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.16.0-4-common/scripts/module-common.lds --build-id  -o /media/common/psmouse-debian8/synaptics_i2c.ko /media/common/psmouse-debian8/synaptics_i2c.o /media/common/psmouse-debian8/synaptics_i2c.mod.o

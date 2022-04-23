@@ -1,0 +1,2 @@
+/media/common/psmouse-debian8/psmouse.ko
+/media/common/psmouse-debian8/psmouse-base.o /media/common/psmouse-debian8/synaptics.o /media/common/psmouse-debian8/focaltech.o /media/common/psmouse-debian8/alps.o /media/common/psmouse-debian8/elantech.o /media/common/psmouse-debian8/logips2pp.o /media/common/psmouse-debian8/lifebook.o /media/common/psmouse-debian8/sentelic.o /media/common/psmouse-debian8/trackpoint.o /media/common/psmouse-debian8/cypress_ps2.o

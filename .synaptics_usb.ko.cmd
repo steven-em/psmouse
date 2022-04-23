@@ -1,0 +1,1 @@
+cmd_/media/common/psmouse-debian8/synaptics_usb.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.16.0-4-common/scripts/module-common.lds --build-id  -o /media/common/psmouse-debian8/synaptics_usb.ko /media/common/psmouse-debian8/synaptics_usb.o /media/common/psmouse-debian8/synaptics_usb.mod.o
