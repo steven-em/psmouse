@@ -1,1 +1,0 @@
-cmd_/media/common/psmouse-debian8/psmouse.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.16.0-4-common/scripts/module-common.lds --build-id  -o /media/common/psmouse-debian8/psmouse.ko /media/common/psmouse-debian8/psmouse.o /media/common/psmouse-debian8/psmouse.mod.o
